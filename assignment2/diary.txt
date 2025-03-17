@@ -1,0 +1,4 @@
+I worked on CTD python assigment 1
+I worked on CTD Python assignment 2
+done for now
+reopened the file to check for exception handling
