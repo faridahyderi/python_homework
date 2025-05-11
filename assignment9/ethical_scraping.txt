@@ -1,0 +1,13 @@
+Which sections of the website are restricted for crawling?
+
+Sections like /wiki/MediaWiki:Spam-blacklist are restricted, preventing crawlers from accessing them
+
+Are there specific rules for certain user agents?
+
+Yes, the file contains directives for specific user agents, such as "BadBot," restricting their access.
+
+Reflecting on the Purpose of robots.txt:
+
+The robots.txt file serves as a guideline for web crawlers, indicating which parts of a website should not be accessed or indexed. 
+This helps protect sensitive information, manage server load, and ensure that only relevant content is available to users through search engines.
+ By adhering to these guidelines, web developers and crawlers promote ethical behavior and respect for website owners' preferences.
